@@ -5,6 +5,7 @@ edition = "2021"
 authors = ["Szymon Dziwak"]
 description = "Library for generating Java code from rust structs"
 license = "MIT"
+repository = "https://github.com/skdziwak/rs-rdc"
 
 [dependencies]
 rdc-macros = "0.1.0"
